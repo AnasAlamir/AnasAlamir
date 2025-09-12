@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm **Anas Alamir**, a computer science student at the **Faculty of Computers and Artificial Intelligence – Helwan University**, currently in my **fourth year** with a **GPA of 3.68**.  
+I'm **Anas Alamir**, a computer science student at the **Faculty of Computers and Artificial Intelligence – Helwan University**, currently in my **fourth year** with a **GPA of 3.6**.  
 
 I specialize in backend development using **C#**, **ASP.NET Core**, and **SQL Server**, with solid experience in building web applications using **MVC**, **Web API**, and **layered/N-Tier architectures**. I’m also expanding my expertise in **Java** with **Spring Boot** and **microservices**.  
 
