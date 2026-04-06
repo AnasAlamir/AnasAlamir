@@ -1,119 +1,78 @@
-# 👨‍💻 Anas Alamir
+<h1 align="center">Hey 👋, I'm Anas Alamir</h1>
 
-**Backend Developer | ASP.NET Core Enthusiast | CS Student at FCAI - Helwan**
+###
 
----
+<p align="left">Software Engineering with strong foundations in programming, and computer science fundamentals. Experienced in building web applications and APIs while applying software design principles such as object-oriented programming and layered architecture. Passionate about learning new technologies and developing scalable, real-world software solutions.</p>
 
-## 👋 About Me
+###
 
-I'm **Anas Alamir**, a computer science student at the **Faculty of Computers and Artificial Intelligence – Helwan University**, currently in my **fourth year** with a **GPA of 3.6**.  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+</div>
 
-I specialize in backend development using **C#**, **ASP.NET Core**, and **SQL Server**, with solid experience in building web applications using **MVC**, **Web API**, and **layered/N-Tier architectures**. I’m also expanding my expertise in **Java** with **Spring Boot** and **microservices**.  
+###
 
-I’m passionate about **clean, maintainable code**, solving complex problems, and continuously improving through real-world projects and collaborations.  
+<div align="left">
+  <a href="https://www.linkedin.com/in/anas-alamir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:anasalamir06@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## 📝 Summary
-Backend Developer with solid knowledge of **C#, ASP.NET Core, and SQL Server**. Built multiple web projects using **MVC, Web API, EF Core, and layered architecture**. Passionate about continuous learning and applying best practices in software development.  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AnasAlamir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+### 📎 CV
 
-## 🎓 Education
-**Bachelor of Science in Computer Science**  
-*Oct 2022 – Jun 2026*  
-Helwan University, Cairo, Egypt — **GPA: 3.6**  
+CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/Resume.pdf).
 
-**Relevant Coursework:**  
-Programming in C, OOP in Java, Data Structures, Algorithms, Database Systems, Operating Systems, Networks, Software Engineering, Artificial Intelligence  
+###
 
----
+<img src="https://raw.githubusercontent.com/AnasAlamir/AnasAlamir/output/snake.svg" alt="Snake animation" />
 
-## 💼 Experience
-
-### Backend Developer Intern — **EVA Pharma**  
-*Jul 2025 – Aug 2025, Cairo, Egypt*  
-- Completed a backend-focused internship in partnership with Vodafone Business under the **Health Tech Track**  
-- Translated business requirements into backend solutions: defining scope, designing workflows, building, and deploying APIs  
-- Presented final project to industry experts and earned the **Best Project Award** for innovation and impact  
-
----
-
-## 🎓 Training
-
-**Dot Net Web Developer Trainee** — *Digital Egypt Pioneers Initiative*  
-*Apr 2024 – Oct 2024, Cairo, Egypt*  
-- Strengthened skills in **SQL Server, C#, HTML5, and ASP.NET Core**  
-- Built applications with **ASP.NET MVC** and **ASP.NET Web API**, including complex queries and deployments  
-
----
-
-## 🚀 Projects
-
-### 🩸 Digital Blood Donation Platform  
-- Built a platform connecting donors and hospitals to streamline blood requests and manage real-time inventories  
-- Developed **ASP.NET Core Web APIs** using **EF Core**, **SQL Server**, and **Repository & Unit of Work patterns**  
-- Deployed APIs and shared Postman collections to support client integration  
-
-### 🎓 Internship Application Portal  
-- Spring Boot microservices-based system enabling students to apply and HR/admins to manage postings  
-- Designed database schema and fully developed the **User service** with layered structure and **AOP-based logging**  
-
-### 🏡 Real Estate Web Application  
-- Property management and exploration system with advanced filtering and pagination  
-- Developed with **ASP.NET MVC, Web API, EF Core, SQL Server**, and **N-Tier Architecture**  
-
-### 📚 Learning Management System (LMS)  
-- Object-oriented **PHP** system for managing users and courses with CRUD  
-- Designed UML diagrams to visualize workflows and system interactions  
-
----
-
-## 🔧 Core Skills & Technologies
-
-### 💻 Programming Languages  
-- **C#**, **Java**, **T-SQL**
-
-### ⚙️ Frameworks & Backend  
-- **ASP.NET MVC**, **ASP.NET Web API**, **EF Core**, **LINQ**  
-- **Spring Boot** (Microservices)
-
-### 🗃️ Database Management  
-- **SQL Server**, **Oracle**, **phpMyAdmin**  
-- Database Design, Optimization, and Complex Queries
-
-### 🌐 Frontend Development  
-- **HTML5**, **CSS3**, **JavaScript**  
-- Razor Views, Bootstrap
-
-### 🧠 Software Design & Principles  
-- **OOP**, **SOLID Principles**  
-- **UML Diagrams**, **Layered Architecture**, **Microservices**
-
-### 🔐 Security  
-- **JWT Authentication & Authorization**  
-- Refresh Tokens, API Security
-
-### 🛠 Tools  
-- **Git**, **GitHub**, **Visual Studio**, **SSMS**, **Postman**, **Web Deployment**
-
-### 🤝 Personal Skills  
-- Problem Solving, Time Management, Team Collaboration  
-
-### 🌍 Languages  
-- **Arabic** (Native), **English** (Intermediate)  
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [anasalamir06@gmail.com](mailto:anasalamir06@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/anasalamir](https://linkedin.com/in/anasalamir)  
-- 🧑‍💻 GitHub: [github.com/AnasAlamir](https://github.com/AnasAlamir)  
-
----
-
-> _“Build it, break it, learn from it.”_  
-> Always open to new challenges, collaborations, and impactful projects.
-
----
+###
