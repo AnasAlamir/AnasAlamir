@@ -72,7 +72,3 @@
 CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/Resume.pdf).
 
 ###
-
-<img src="https://raw.githubusercontent.com/AnasAlamir/AnasAlamir/output/snake.svg" alt="Snake animation" />
-
-###
