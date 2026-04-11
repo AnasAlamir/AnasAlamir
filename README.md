@@ -69,6 +69,6 @@
 
 ### 📎 CV
 
-CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/Resume.pdf).
+CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/cv.pdf).
 
 ###
