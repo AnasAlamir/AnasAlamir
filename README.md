@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <!-- Tech stack icons (kept as you had) -->
+  <!-- Tech stack icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="sqlserver" />
@@ -67,9 +67,13 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AnasAlamir&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AnasAlamir&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnasAlamir&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AnasAlamir&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AnasAlamir&theme=dark" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnasAlamir&layout=compact&theme=dark" height="150" alt="Top Languages" />
+</div>
+
+<br />
 
 ### 📎 CV
 CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/cv.pdf)
