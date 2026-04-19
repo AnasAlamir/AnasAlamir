@@ -67,14 +67,9 @@
 
 <br />
 
-<!-- GitHub stats in a single row -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasAlamir&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlamir&theme=dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="top langs" />
-  <img src="https://streak-stats.demolab.com?user=AnasAlamir&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak" />
-</div>
-
-<br />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AnasAlamir&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AnasAlamir&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnasAlamir&layout=compact&theme=dark)
 
 ### 📎 CV
 CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/cv.pdf)
