@@ -68,7 +68,7 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AnasAlamir&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AnasAlamir&theme=dark" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnasAlamir&layout=compact&theme=dark" height="150" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasAlamir&theme=monokai" alt="Top languages by commit badge"/>
 </div>
 
 <div align="center">
