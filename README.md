@@ -72,6 +72,7 @@
 </div>
 
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasAlamir&label=Profile%20views&color=0e75b6&style=flat" alt="abdo875" /> </p>
 
 ### 📎 CV
 CV at [github.com/AnasAlamir/cv](https://github.com/AnasAlamir/cv/blob/main/cv.pdf)
