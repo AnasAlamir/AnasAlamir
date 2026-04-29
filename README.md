@@ -71,6 +71,10 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnasAlamir&layout=compact&theme=dark" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnasAlamir&theme=monokai&row=1&column=6" height="150" alt="Trophies" />
+</div>
+
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasAlamir&label=Profile%20views&color=0e75b6&style=flat" alt="abdo875" /> </p>
 
