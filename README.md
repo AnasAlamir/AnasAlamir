@@ -63,11 +63,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
   <img width="12" />
-  <a href="https://leetcode.com/your-username/" target="_blank">
+  <a href="https://leetcode.com/u/AnasAlamir/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/000000" width="52" height="40" alt="leetcode" />
   </a>
   <img width="12" />
-  <a href="https://codeforces.com/profile/your-username/" target="_blank">
+  <a href="https://codeforces.com/profile/AnasAlamir" target="_blank">
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="52" height="40" alt="codeforces" />
   </a>
 </div>
