@@ -58,17 +58,14 @@
   <a href="https://www.linkedin.com/in/anas-alamir/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <img width="12" />
   <a href="mailto:anasalamir06@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
-  <img width="12" />
   <a href="https://leetcode.com/u/AnasAlamir/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/000000" width="52" height="40" alt="leetcode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52" height="40" alt="leetcode" />
   </a>
-  <img width="12" />
   <a href="https://codeforces.com/profile/AnasAlamir" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="52" height="40" alt="codeforces" />
+    <img src="https://cdn.simpleicons.org/codeforces/FF0000" width="52" height="40" alt="codeforces" />
   </a>
 </div>
 
