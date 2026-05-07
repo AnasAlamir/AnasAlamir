@@ -45,8 +45,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c" />
